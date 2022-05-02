@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex0502</string>
+
+    <!--activity_main/xml-->
+    <string name = "btnWebView_text">웹 페이지 보기</string>
+    <string name = "btnCamera_text">카메라 호출</string>
+    <string name = "btnDial_text">전화번호입력창 보기</string>
+    <string name = "btnCall_text">전화걸기</string>
+
+</resources>
