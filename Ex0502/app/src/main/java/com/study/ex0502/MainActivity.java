@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                             MainActivity.this,
                             new String[]{Manifest.permission.CALL_PHONE},
                             0);
-                    return; // 권한 요청 수락되면 여기서 끝남
+                    return; // 권한 요청 수락되면 여기서 끝나게 됨
                 }
                 startActivity(callIntent);
             }
